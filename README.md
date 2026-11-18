@@ -1,2 +1,2 @@
-# PRAC-7
-PRAC 7
+# prac 7
+prac 7
